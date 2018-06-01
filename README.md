@@ -19,16 +19,12 @@ Also, currently all exploits require the user to use the Nvidia Integra exploit 
 
 * Works on every Switch
   * SX OS Works with every Nintendo Switch out there. On every firmware version!
-
 * Play all Games!
   * With SX OS you can play all your favorite games straight off of the microSD card inserted into your Nintendo Switch.
-
 * Homebrew Games & Apps
   * Using SX OS homebrew menu launcher you can enjoy all the quality games and software by independent developers.
-
 * Continued Support
   * Team Xecuter is always actively working to bring more exciting functionality to SX OS.
-
 * Backwards Compatible
   * Using the SX OS Launcher you can easily boot into the normal Nintendo Switch firmware to enjoy your original games.
 
