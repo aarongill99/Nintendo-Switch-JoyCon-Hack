@@ -54,8 +54,7 @@ If your momentary switch is installed properly, to enter the bootloader you need
 
   5. Drilling Device
      * Dremel with a bit slightly larger than the button of the switch or
-     * Drill with a bit slightly larger than the button of the switch or
-     * A Prison shank with a tip slightly larger than the button of the switch. 
+     * Drill with a bit slightly larger than the button of the switch.
   
   6. Shrink Tubing (http://a.co/6SDwGox). I recommend getting a kit of various sizes at $7.99
   
