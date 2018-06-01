@@ -10,9 +10,11 @@ Hardwiring a push button in a JoyCon to grant debug/bootloader
                  ╚════╝  ╚═════╝    ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
                                                                                                 XxWiReDxX
 
-This is a tutorial on how to hack the Nintendo Switch JoyCon to grant the user escalated access for Custom Firmware *(CFW)* and HomeBrew. I created this hack and tutorial to help users and myself to easily use the Nvidia Integra exploit. All fabricate, or shorting the pins on the JoyCon, potentially damaging the pins.
+This is a tutorial on how to hack the Nintendo Switch JoyCon to grant the user escalated access for Custom Firmware *(CFW)* and HomeBrew. I created this hack and tutorial to help users and myself to easily use the Nvidia Integra exploit. Current hacks require a user to use a jig tool by inserting it in the right joycon slot, using aluminum on a joycon and inserting it in the right JoyCon slot, or shorting and breaking the right JoyCon pins, every time a user wants to boot into bootloader. This can be cumbersom and annoying when switching between stock firmware and custom firmware, and this hack is to make it a seemless operation for the user.
 
-Also, currently all exploits require the user to use the Nvidia Integra exploit every time the Nintendo Switch is shutdown or rebooted, and this can be a burden if you are using a purchased or homemade tool. By modding your controller easily and once, you now will have a hassle-free method of getting into the bootloader. This will come in handy with Xecuters USB C Modchip, for a fast and easy CFW launch (Can be found at http://www.modchipsdirect.com/nintendo-switch.html).
+Also, currently all exploits require the user to use the Nvidia Integra exploit every time the Nintendo Switch is shutdown or rebooted, and this can be a burden if you are using a purchased or homemade tool. By modding your controller easily and once, you now will have a hassle-free method of getting into the bootloader. This will come in handy with Xecuters USB C Modchip (https://sx.xecuter.com/), for a fast and easy CFW launch (Can be found at http://www.modchipsdirect.com/nintendo-switch.html).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8TSo3lIK00" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Please keep in mind that I am not responsible for any issues caused by this modification. With that said, follow instructions and you should be okay.
 
