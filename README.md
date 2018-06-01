@@ -30,7 +30,7 @@ Also, currently all exploits require the user to use the Nvidia Integra exploit 
 
 
 # How it Works / How to Use
-If your momentary switch is installed properly, to enter the bootloader you need to insure your device is powered off, and then press and hold the installed button and the volume up button. While holding these 2 buttons power the device on with the power button. *(If you see the Nintendo logo, it did not boot properly. If it booted to a blank black screen, congratulations you have access to the bootloader.
+If your momentary switch is installed properly, to enter the bootloader you need to insure your device is powered off, and then press and hold the installed button and the volume up button. While holding these 2 buttons power the device on with the power button. *(If you see the Nintendo logo, it did not boot properly. If it booted to a blank black screen, congratulations you have access to the bootloader)*.
 
 # Starting Notes
   1. Take your time. Do not rush through the project. The JoyCon hardware is sensitive *(Ribbon Cables can come loose if pulled hard)* and the components are small.
