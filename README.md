@@ -14,7 +14,7 @@ This is a tutorial on how to hack the Nintendo Switch JoyCon to grant the user e
 
 Also, currently all exploits require the user to use the Nvidia Integra exploit every time the Nintendo Switch is shutdown or rebooted, and this can be a burden if you are using a purchased or homemade tool. By modding your controller easily and once, you now will have a hassle-free method of getting into the bootloader. This will come in handy with Xecuters USB C Modchip (https://sx.xecuter.com/), for a fast and easy CFW launch (Can be found at http://www.modchipsdirect.com/nintendo-switch.html).
 
-[![Team Xecuter](https://www.youtube.com/embed/Z8TSo3lIK00.jpg)](https://www.youtube.com/embed/Z8TSo3lIK00)
+[![Team Xecuter](https://i2.ytimg.com/vi/Z8TSo3lIK00/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBNXbw_M2KmwchKGBKpj2bhJTjzRw)](https://www.youtube.com/embed/Z8TSo3lIK00)
 
 Please keep in mind that I am not responsible for any issues caused by this modification. With that said, follow instructions and you should be okay.
 
