@@ -17,7 +17,21 @@ Also, currently all exploits require the user to use the Nvidia Integra exploit 
 ## Team Xecuter
 [![Team Xecuter](https://i2.ytimg.com/vi/Z8TSo3lIK00/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBNXbw_M2KmwchKGBKpj2bhJTjzRw)](https://www.youtube.com/embed/Z8TSo3lIK00)
 
-Please keep in mind that I am not responsible for any issues caused by this modification. With that said, follow instructions and you should be okay.
+### • Works on every Switch
+  SX OS Works with every Nintendo Switch out there. On every firmware version!
+
+### • Play all Games!
+  With SX OS you can play all your favorite games straight off of the microSD card inserted into your Nintendo Switch.
+
+### • Homebrew Games & Apps
+  Using SX OS homebrew menu launcher you can enjoy all the quality games and software by independent developers.
+
+### • Continued Support
+  We're actively working to bring more exciting functionality to SX OS. Customers are eligible for free lifetime support and updates.
+
+### • Backwards Compatible
+  Using the SX OS Launcher you can easily boot into the normal Nintendo Switch firmware to enjoy your original games.
+
 
 # How it Works / How to Use
 If your momentary switch is installed properly, to enter the bootloader you need to insure your device is powered off, and then press and hold the installed button and the volume up button. While holding these 2 buttons power the device on with the power button. *(If you see the Nintendo logo, it did not boot properly. If it booted to a blank black screen, congratulations you have access to the bootloader.
@@ -54,7 +68,10 @@ If your momentary switch is installed properly, to enter the bootloader you need
   8. Solder Flux *(Optional, but it helps solder flow)* .
   
   9. Security Screw Driver Set *(YBit & Phillips used to open the JoyCon)* . I used my own set, but here is a link to one (http://a.co/aoYPtmz).
-  
+
+#### Disclaimer
+Please keep in mind that I am not responsible for any issues caused by this modification. With that said, follow instructions and you should be okay.
+
 # HOW TO
 ### Prep the Jumper/Connector Wire
 #### On my project I used a female jumper cable *(Image 1 - link above)* .
