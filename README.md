@@ -68,6 +68,8 @@ If your momentary switch is installed properly, to enter the bootloader you need
   8. Solder Flux *(Optional, but it helps solder flow)* .
   
   9. Security Screw Driver Set *(YBit & Phillips used to open the JoyCon)* . I used my own set, but here is a link to one (http://a.co/aoYPtmz).
+  
+  10. Right JoyCon controller. *(This will not work with the left JoyCon)*
 
 #### Disclaimer
 Please keep in mind that I am not responsible for any issues caused by this modification. With that said, follow instructions and you should be okay.
