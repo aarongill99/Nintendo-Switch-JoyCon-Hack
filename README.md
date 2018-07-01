@@ -10,6 +10,8 @@ Hardwiring a push button in a JoyCon to grant debug/bootloader
                  ╚════╝  ╚═════╝    ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
                                                                                                 XxWiReDxX
 
+#### Please feel free to give me a star or share my repository if you like my tutorial. Thanks for visiting, XxWiReDxX.
+
 This is a tutorial on how to hack the Nintendo Switch JoyCon to grant the user escalated access for Custom Firmware *(CFW)* and HomeBrew. I created this hack and tutorial to help users and myself to easily use the Nvidia Integra exploit. Current hacks require a user to use a jig tool by inserting it in the right JoyCon slot, using aluminum on a JoyCon and inserting it in the right JoyCon slot, or shorting and breaking the right JoyCon pins, every time a user wants to boot into bootloader. This can be cumbersome  and annoying when switching between stock firmware and custom firmware, and this hack is to make it a seamless operation for the user.
 
 Also, currently all exploits require the user to use the Nvidia Integra exploit every time the Nintendo Switch is shutdown or rebooted, and this can be a burden if you are using a purchased or homemade tool. By modding your controller easily and once, you now will have a hassle-free method of getting into the bootloader. This will come in handy with Xecuters USB C Modchip (https://sx.xecuter.com/), for a fast and easy CFW launch. A list of resellers can be found Here (https://team-xecuter.com/where-to-buy/).
