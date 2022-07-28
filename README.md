@@ -14,21 +14,17 @@ Hardwiring a push button in a JoyCon to grant debug/bootloader
 
 This is a tutorial on how to hack the Nintendo Switch JoyCon to grant the user escalated access for Custom Firmware *(CFW)* and HomeBrew. I created this hack and tutorial to help users and myself to easily use the Nvidia Integra exploit. Current hacks require a user to use a jig tool by inserting it in the right JoyCon slot, using aluminum on a JoyCon and inserting it in the right JoyCon slot, or shorting and breaking the right JoyCon pins, every time a user wants to boot into bootloader. This can be cumbersome  and annoying when switching between stock firmware and custom firmware, and this hack is to make it a seamless operation for the user.
 
-Also, currently all exploits require the user to use the Nvidia Integra exploit every time the Nintendo Switch is shutdown or rebooted, and this can be a burden if you are using a purchased or homemade tool. By modding your controller easily and once, you now will have a hassle-free method of getting into the bootloader. This will come in handy with Xecuters USB C Modchip (https://sx.xecuter.com/), for a fast and easy CFW launch. A list of resellers can be found Here (https://team-xecuter.com/where-to-buy/).
+Also, currently all exploits require the user to use the Nvidia Integra exploit every time the Nintendo Switch is shutdown or rebooted, and this can be a burden if you are using a purchased or homemade tool. By modding your controller easily and once, you now will have a hassle-free method of getting into the bootloader
 
 # Team Xecuter
 [![Team Xecuter](https://i2.ytimg.com/vi/Z8TSo3lIK00/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBNXbw_M2KmwchKGBKpj2bhJTjzRw)](https://www.youtube.com/embed/Z8TSo3lIK00)
 
-### Works on every Switch
-  * SX OS Works with every Nintendo Switch out there. On every firmware version!
 ### Play all Games!
-  * With SX OS you can play all your favorite games straight off of the microSD card inserted into your Nintendo Switch.
+  * you can play all your favorite games straight off of the microSD card inserted into your Nintendo Switch.
 ### Homebrew Games & Apps
-  * Using SX OS homebrew menu launcher you can enjoy all the quality games and software by independent developers.
-### Continued Support
-  * Team Xecuter is always actively working to bring more exciting functionality to SX OS.
+  * Using homebrew menu launcher you can enjoy all the quality games and software by independent developers.
 ### Backwards Compatible
-  * Using the SX OS Launcher you can easily boot into the normal Nintendo Switch firmware to enjoy your original games.
+  * Using the Launcher you can easily boot into the normal Nintendo Switch firmware to enjoy your original games.
 
 
 # How it Works / How to Use
